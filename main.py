@@ -4,10 +4,11 @@ import font
 import skew
 import border
 import pytesseract
+import detected
 from PIL import Image
 
 
-image_file = "data/data.jpg"
+image_file = "data/capture.png"
 img = cv2.imread(image_file)
 inverted_image = cv2.bitwise_not(img)
 cv2.imwrite("temp/inverted.jpg", inverted_image)
@@ -34,9 +35,11 @@ top, bottom, left, right = [150]*4
 image_with_border = cv2.copyMakeBorder(
     no_borders, top, bottom, left, right, cv2.BORDER_CONSTANT, value=color)
 
-img = Image.open("temp/thin_font.jpg")
+img = Image.open("temp/inverted.jpg")
+detected.detectedText(image_file)
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
-ocr_result = pytesseract.image_to_string(img)
+ocr_result = pytesseract.image_to_string(img, lang='fra')
+print(ocr_result)
 file = open('data.txt', 'w')
 file.write(ocr_result)
 file.close()

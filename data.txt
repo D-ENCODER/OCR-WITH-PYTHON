@@ -1,50 +1,7 @@
-GOVERNMENT POLYTECHNIC, AHEMEDABAD
-COMPUTER DEPARTMENT
-
-Course Name: Computer Programming (3310701)
-Semester: 1"
-
-ASSIGNMENT 1 col
-Flow chart and algorithm:
-
-Explain flow chart with various symbols of flow chart.
-
-Explain algorithm with Example.
-
-Draw a flow chart & write algorithm to find area of the circle.
-
-Draw a flow chart & write algorithm to find if a given number is odd or even.
-
-Draw a flow chart & write algorithm for interchange value of two variables.
-
-Draw a flow chart & write algorithm to find cumulative amount of given principal amount,
-rate of interest and no. of years.
-
-CA Yo SW
-
-ASSIGNMENT 2 co2
-Basics of C (data types, operators and expressions):
-
-Describe : C known as a middle level language.
-State the main features of the C language.
-Explain basic structure of C program.
-Define constants and variables in C, explain with examples.
-List the various backslash character constants available in C.
-Write the Syntax of printf () and scanf(_) Function.
-Explain C tokens.
-List out any four ‘C’ keywords and write rules for keywords.
-Explain data types in C language.
-. List out various categories of operators in C.
-. Explain with examples the shorthand assignment operators.
-. Explain bit-wise operators with example.
-. Explain Arithmetic operators with example.
-. Explain increment and decrement operators with one example
-. Explain associatively and precedence of operators
-
-SO G2 SY) ON YA sh fo =
-
-—_—
-—_— ©
-
-SS
-OM & Wh
+Pratiquez vos compétences en lecture en français avec notre collection sans cesse croissante de contenus de
+lecture interactifs regroupés par niveau du CECR et accompagnés d'explications détaillées et de liens vers d'autres
+ressources. Ces articles vous sont présentés à l'aide de notre lecteur bilingue : lors de la lecture du texte, vous
+pouvez cliquer sur n'importe quelle phrase pour voir la traduction en anglais et les leçons de grammaire française
+associées. Pour faciliter davantage votre compréhension de la lecture, les leçons peuvent être mises en signet à
+partir du lecteur et enregistrées pour une pratique ultérieure. La plupart de ces fonctionnalités incluent également
+un fichier vidéo ou audio afin que vous puissiez pratiquer votre compréhension orale en même temps.
