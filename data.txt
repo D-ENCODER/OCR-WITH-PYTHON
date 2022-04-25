@@ -1,7 +1,5 @@
-Pratiquez vos compétences en lecture en français avec notre collection sans cesse croissante de contenus de
-lecture interactifs regroupés par niveau du CECR et accompagnés d'explications détaillées et de liens vers d'autres
-ressources. Ces articles vous sont présentés à l'aide de notre lecteur bilingue : lors de la lecture du texte, vous
-pouvez cliquer sur n'importe quelle phrase pour voir la traduction en anglais et les leçons de grammaire française
-associées. Pour faciliter davantage votre compréhension de la lecture, les leçons peuvent être mises en signet à
-partir du lecteur et enregistrées pour une pratique ultérieure. La plupart de ces fonctionnalités incluent également
-un fichier vidéo ou audio afin que vous puissiez pratiquer votre compréhension orale en même temps.
+Saving a Text File in Python
+After learning about opening a File in Python, let’s see the ways to save it. Opening
+anew file in write mode will create a file and after closing the file, the files get
+saved automatically. However, we can also write some text to the file. Python
+provides two methods for the same.

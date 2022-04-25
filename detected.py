@@ -30,5 +30,5 @@ def detectedText(loc):
         cv2.putText(img, b[0], (x, hImg - y + 13),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.4, (50, 205, 50), 1)
 
-    cv2.imshow('Detected text', img)
+    cv2.imwrite('temp/boxes_with_names.jpg', img)
     cv2.waitKey(0)
