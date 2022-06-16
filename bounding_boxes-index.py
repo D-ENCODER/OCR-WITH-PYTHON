@@ -1,4 +1,3 @@
-import pytesseract
 import cv2
 image = cv2.imread("data/index_02.JPG")
 base_image = image.copy()
