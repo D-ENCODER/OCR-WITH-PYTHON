@@ -1,6 +1,6 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86153190/165114631-f7020a7f-a1e3-4bb7-b2e3-23bedcca8402.png)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/5e46b983062f1df22a57/maintainability)](https://codeclimate.com/github/D-ENCODER/OCR-WITH-PYTHON/maintainability)
 # OCR(Optical Character Recognition)
 
 Optical character recognition (OCR) is sometimes referred to as text recognition. An OCR program extracts and repurposes data from scanned documents, camera images and image-only pdfs. OCR software singles out letters on the image, puts them into words and then puts the words into sentences, thus enabling access to and editing of the original content. It also eliminates the need for manual data entry.
